@@ -1,0 +1,9 @@
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №12\ex12.1\ex12.1\bin\Debug\ex12.1.exe.config
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №12\ex12.1\ex12.1\bin\Debug\ex12.1.exe
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №12\ex12.1\ex12.1\bin\Debug\ex12.1.pdb
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №12\ex12.1\ex12.1\obj\Debug\ex12.1.csprojResolveAssemblyReference.cache
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №12\ex12.1\ex12.1\obj\Debug\ex12._1.Form1.resources
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №12\ex12.1\ex12.1\obj\Debug\ex12._1.Properties.Resources.resources
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №12\ex12.1\ex12.1\obj\Debug\ex12.1.csproj.GenerateResource.Cache
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №12\ex12.1\ex12.1\obj\Debug\ex12.1.exe
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №12\ex12.1\ex12.1\obj\Debug\ex12.1.pdb
